@@ -155,6 +155,11 @@ a:hover,a:focus {
 
 /* http://unsplash.it/1600/1400?random=9 */
 
+.pro-pic img {
+  border-radius: 30px;
+	max-width:40%;
+}
+
 .intro .intro-body {
 	display:table-cell;
 	vertical-align:middle;
