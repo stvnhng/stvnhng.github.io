@@ -246,8 +246,8 @@ a:hover,a:focus {
 	}
 	.intro .intro-body .intro-text {
 		font-size:20px;
-			font-weight:300;
-			letter-spacing:3px;
+		font-weight:300;
+		letter-spacing:3px;
 	}
 }
 .btn-circle {
@@ -324,6 +324,16 @@ a:hover,a:focus {
 			 clear:both;
 	}
 }
+
+.col-md-6 {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.title{
+  font-size: 20px;
+}
+
 .btn {
 	border-radius:0;
 	text-transform:uppercase;
